@@ -1,0 +1,13 @@
+git config --global user.name "Mohammadfazal-sayed"
+git config --global user.email "fazal92.sayed@gmail.com"
+
+
+git config --global user.name "kotreshsb16"
+git config --global user.email "sbkotresh16@gmail.com"
+
+vim /etc/environment
+bdecf95f79b34723bd2a3fbae94652c5 \ jenkins / jakines
+
+
+
+
